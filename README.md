@@ -1,4 +1,3 @@
-![total_summary](https://user-images.githubusercontent.com/82389466/128617262-aaf38afa-e5d5-4a18-9d0c-e723b9e3d005.png)
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
@@ -23,11 +22,13 @@ An analysis of the suspension_coil csv was completed to determine the mean, medi
 <br/>
 
 1. In total, the current manufacturing data meets the design specification, with a variance of 62.3 PSI.
+
 ![total_summary](https://user-images.githubusercontent.com/82389466/128617266-6b22447f-444a-49a0-9e7b-494969b2ee01.png)
 
 <br/>
 
 2. By lot, lots 1 and 2 are the only lots that meet the 100 PSI variance requirement. Lot 1 has a variance of .98, and Lot 2 has a variance of 7.47. Lot 3 has a variance of 170.29, indicating that there is a vary large variance in the data set. A large variance would indicate many numbers in the set are very far from the mean.
+
 ![lot_summary](https://user-images.githubusercontent.com/82389466/128617269-2c987cd0-4b03-4ed5-b96c-82e2c9cf105f.png)
 
 <br/>
