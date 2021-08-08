@@ -30,4 +30,18 @@ An analysis of the suspension_coil csv was completed to determine the mean, medi
 <br/>
 <br/>
 
+## T-Tests on Suspension Coils
+ 
+1. T-Tests were performed on the supsension coil PSIs as a total, and by lot. For the entire dataset, the t-test p-value is .06, which is not enough to reject the null hypothesis that manufacturer PSI is not statistically different than the standard of 1500.
+
+<br/>
+
+2. T-Tests by lot revealed the following:
+	a. Lot 1 had a p-value of 1, indicating that the observed PSIs were the same as the standard of 1500.
+	b. Lot 2 had a p-value of .6, indicating that PSIs were not statistically different than the standard of 1500.
+	c. Lot 3 had a p-value of .04, indicating that PSI were in fact statistically different than the standard of 1500.
+
+<br/>
+<br/>
+
 
