@@ -44,4 +44,22 @@ An analysis of the suspension_coil csv was completed to determine the mean, medi
 <br/>
 <br/>
 
+## Study Design: MechaCar vs Competition
 
+In order to test how MechaCar performs against other consumer vehicles, additional metrics could be gathered and analysed. In order to gain meaningful insight into which cars are rated highest, we will have to address several questions.
+
+<br/>
+
+1. Metrics to be tested could be car length and ground clearance, since they have such an impact on the mpg of mechacars, as well as cost, and maintenance costs.
+
+<br/>
+
+2. The null hypothesis is that would be that there is no difference between MechaCar and other consumer vehicles. The alternative hypothesis would be that there is a difference between the vehicles.
+
+<br/>
+
+3. For statistical analysis, we would use a multiple linear regression test since we have multiple numeric values for our metrics.
+
+<br/>
+
+4. To run these tests we would need continuous data with 2 or more variables, which would be contained within the car length, ground clearance, cost, and maintenance cost.
